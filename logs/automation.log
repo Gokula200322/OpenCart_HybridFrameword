@@ -1,0 +1,95 @@
+2025-11-04 10:55:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\DELL\Downloads\OpencartV121\OpencartV121\Master.xml
+
+2025-11-04 10:55:43 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-04 10:55:44 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-11-04 10:55:44 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-11-04 10:55:44 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-11-04 10:55:46 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2025-11-04 10:55:46 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2025-11-04 10:55:46 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-04 10:55:49 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-04 10:58:05 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\DELL\Downloads\OpencartV121\OpencartV121\Master.xml
+
+2025-11-04 10:58:09 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-04 10:58:10 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-11-04 10:58:10 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-11-04 10:58:10 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-11-04 10:58:12 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2025-11-04 10:58:12 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2025-11-04 10:58:12 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-04 10:58:14 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-04 11:01:41 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-04 11:01:42 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-11-04 11:01:42 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-11-04 11:01:42 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-11-04 11:01:44 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2025-11-04 11:01:44 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2025-11-04 11:01:44 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-04 11:01:46 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-04 11:19:54 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-04 11:19:55 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-11-04 11:19:55 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-11-04 11:19:55 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-11-04 11:19:57 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2025-11-04 11:19:57 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2025-11-04 11:19:57 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-04 11:20:00 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-04 11:21:26 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-04 11:21:26 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-11-04 11:21:27 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-11-04 11:21:27 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-11-04 11:21:28 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2025-11-04 11:21:28 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2025-11-04 11:21:28 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-04 11:21:31 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-04 11:51:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\DELL\OneDrive\Desktop\Automation Projects\OpencartV121\OpencartV121\Grid-Docker.xml
+
+2025-11-04 11:51:56 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-04 11:51:57 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-11-04 11:51:57 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-11-04 11:51:57 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-11-04 11:51:59 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2025-11-04 11:51:59 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2025-11-04 11:51:59 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-04 11:52:07 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-04 11:52:46 INFO  TC_004_SearchProductTest:14 -  Starting TC_004_SearchProductTest 
+2025-11-04 11:52:47 INFO  TC_004_SearchProductTest:34 -  Finished TC_004_SearchProductTest 
+2025-11-04 11:52:54 INFO  TC_005_AddToCartPageTest:15 -  Starting TC_005_AddToCartPageTest 
+2025-11-04 11:52:56 INFO  TC_005_AddToCartPageTest:41 -  Finished TC_004_SearchProductTest 
+2025-11-04 11:53:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\DELL\OneDrive\Desktop\Automation Projects\OpencartV121\OpencartV121\Grid-Docker.xml
+
+2025-11-04 11:53:42 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-04 11:53:43 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-11-04 11:53:43 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-11-04 11:53:43 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-11-04 11:53:45 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2025-11-04 11:53:45 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2025-11-04 11:53:45 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-04 11:53:49 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-04 11:54:10 INFO  TC_004_SearchProductTest:14 -  Starting TC_004_SearchProductTest 
+2025-11-04 11:54:11 INFO  TC_004_SearchProductTest:34 -  Finished TC_004_SearchProductTest 
+2025-11-04 11:54:17 INFO  TC_005_AddToCartPageTest:15 -  Starting TC_005_AddToCartPageTest 
+2025-11-04 11:54:18 INFO  TC_005_AddToCartPageTest:41 -  Finished TC_004_SearchProductTest 
+2025-11-04 11:55:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\DELL\OneDrive\Desktop\Automation Projects\OpencartV121\OpencartV121\Grid-Docker.xml
+
+2025-11-04 11:56:04 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-11-04 11:56:05 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-11-04 11:56:05 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-11-04 11:56:05 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-11-04 11:56:07 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2025-11-04 11:56:17 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-11-04 11:56:21 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-11-04 11:56:43 INFO  TC_004_SearchProductTest:14 -  Starting TC_004_SearchProductTest 
+2025-11-04 11:56:43 INFO  TC_004_SearchProductTest:34 -  Finished TC_004_SearchProductTest 
+2025-11-04 11:56:52 INFO  TC_005_AddToCartPageTest:15 -  Starting TC_005_AddToCartPageTest 
+2025-11-04 11:58:06 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\DELL\OneDrive\Desktop\Automation Projects\OpencartV121\OpencartV121\Grid-Docker.xml
+
+2025-11-04 12:00:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\DELL\OneDrive\Desktop\Automation Projects\OpencartV121\OpencartV121\Grid-Docker.xml
+
